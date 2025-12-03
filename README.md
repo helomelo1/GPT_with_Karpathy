@@ -1,1 +1,1 @@
-# GPT_with_Karpathy
+# ZtH_with_Karpathy
